@@ -1,6 +1,5 @@
-# be-G-book-real-world-software-development-study
-
-실전 자바 소프트웨어 개발 스터디
+# be-G-DB-SQL-study
+SQL 레벨업 스터디 및 SQL 문제
 
 - [SQL 레벨업](http://www.yes24.com/Product/Goods/24089836)
 
