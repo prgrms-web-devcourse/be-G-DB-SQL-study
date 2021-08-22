@@ -53,7 +53,7 @@ ALTER TABLE 테이블명 하부명령
 
 ```sql
 CREATE TABLE 테이블명 (
-	열 정의1,	-- 열을 콤마(,)로 구분하여 연속으로 지정할 수 있음
+  열 정의1,	-- 열을 콤마(,)로 구분하여 연속으로 지정할 수 있음
   열 정의2,
   ...
 )
@@ -146,9 +146,9 @@ ALTER TABLE 테이블명 DROP 열명
 
 ```sql
 CREATE TABLE sample (
-	no INTEGER NOT NULL,								-- 열 제약
-  email VARCHAR(50) NOT NULL UNIQUE,	-- 열 제약
-  PRIMARY KEY(no)											-- 테이블 제약 
+  no INTEGER NOT NULL,  -- 열 제약
+  email VARCHAR(50) NOT NULL UNIQUE,  -- 열 제약
+  PRIMARY KEY(no). -- 테이블 제약 
 );
 ```
 
